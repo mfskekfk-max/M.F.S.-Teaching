@@ -1,0 +1,4 @@
+window.supabaseConfig = {
+  url: "",
+  anonKey: ""
+};
